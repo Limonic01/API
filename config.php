@@ -3,7 +3,7 @@
 $DB = array(
     "login" => "u0941340_pko317",
     "password" => "u0941340_pko317",
-    "host" => "localhost",
+    "host" => "31.31.198.115",
     "name" => "u0941340_pko317",
     "charset" => "utf8mb4"
 );
